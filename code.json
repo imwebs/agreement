@@ -1,4 +1,4 @@
 {
-  a: ['asdf'],
-  b: ['bbasd']
+  'a': ['asdf'],
+  'b': ['bbasd']
 }
