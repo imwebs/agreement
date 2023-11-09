@@ -1,4 +1,4 @@
-{
+[{
   "a": [
   "abandon", "ability", "able", "about", "above", "absent", "absorb", "abstract", "absurd", "abuse",
   "access", "accident", "account", "accuse", "achieve", "acid", "acoustic", "acquire", "across", "act",
@@ -248,4 +248,4 @@
 ],
   "y": ["yard", "year", "yellow", "you", "young", "youth"],
   "z": ["zebra", "zero", "zone", "zoo"]
-}
+}]
